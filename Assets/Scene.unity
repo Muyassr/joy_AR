@@ -1189,7 +1189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Move arround until the Hex appears, then Tap to place the Machinery.
+  m_text: Move arround until the Hex appears, then Tap to place the gift.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 73d03aedb837d664f9673e080d5c3197, type: 2}
   m_sharedMaterial: {fileID: -5445430265412872933, guid: 73d03aedb837d664f9673e080d5c3197,
